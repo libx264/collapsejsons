@@ -3,11 +3,15 @@
   "mainClass": "net.minecraft.client.main.Main",
   "downloads": {
     "client": {
-      "sha1": "FC7FCE66C1AD8308A26B646A1B4D13DA24A5F76E",
+      "sha1": "fc7fce66c1ad8308a26b646a1b4d13da24a5f76e",
       "size": 142614792,
       "url": "https://cdn.collapseloader.org/Rockstar.jar"
     }
   },
+  "javaVersion": {
+    "component": "java-runtime-alpha", 
+    "majorVersion": 16
+  }
   "id": "Rockstar",
   "releaseTime": "2025-05-02T16:42:28.469099+03:00",
   "time": "2025-05-02T16:42:28.469110+03:00"
