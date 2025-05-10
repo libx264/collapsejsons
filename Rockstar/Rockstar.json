@@ -3,8 +3,8 @@
   "mainClass": "net.minecraft.client.main.Main",
   "downloads": {
     "client": {
-      "sha1": "2C8743F6042F1963547AC2E5F73EBD97631FCEA2",
-      "size": 142647349,
+      "sha1": "FC7FCE66C1AD8308A26B646A1B4D13DA24A5F76E",
+      "size": 142614792,
       "url": "https://cdn.collapseloader.org/Rockstar.jar"
     }
   },
