@@ -9,8 +9,8 @@
     }
   },
   "javaVersion": {
-    "component": "java-runtime-alpha", 
-    "majorVersion": 16
+    "component": "java-runtime-delta", 
+    "majorVersion": 21
   },
   "id": "Rockstar",
   "releaseTime": "2025-05-02T16:42:28.469099+03:00",
