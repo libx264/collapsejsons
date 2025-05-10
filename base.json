@@ -1,0 +1,14 @@
+{
+  "inheritsFrom": "{version}",
+  "mainClass": "{mclass}",
+  "downloads": {
+    "client": {
+      "sha1": "37fd3c903861eeff3bc24b71eed48f828b5269c8",
+      "size": 17547153,
+      "url": "https://cdn.collapseloader.org/{id}.jar"
+    }
+  },
+  "id": "{id}",
+  "releaseTime": "{crtime}",
+  "time": "{updtime}",
+}
