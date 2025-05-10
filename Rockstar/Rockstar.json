@@ -14,5 +14,19 @@
   },
   "id": "Rockstar",
   "releaseTime": "2025-05-02T16:42:28.469099+03:00",
-  "time": "2025-05-02T16:42:28.469110+03:00"
+  "time": "2025-05-02T16:42:28.469110+03:00",
+  "minimumLauncherVersion": 21,
+  "libraries": [
+    {
+      "downloads": {
+        "artifact": {
+          "path": "it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar",
+          "sha1": "1e885b40c9563ab0d3899b871fd0b30e958705dc",
+          "size": 23730770,
+          "url": "https://libraries.minecraft.net/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar"
+        }
+      },
+      "name": "it.unimi.dsi:fastutil:8.5.15"
+    }
+  ]
 }
